@@ -1,0 +1,1 @@
+select * from tb_produto3 where nome like "%co%"

@@ -1,0 +1,1 @@
+select * from tb_produto3 where preco > 3 and preco < 60
