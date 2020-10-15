@@ -1,1 +1,0 @@
-select * from tb_produto3 where preco > 60
